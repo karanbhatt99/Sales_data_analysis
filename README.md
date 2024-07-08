@@ -87,7 +87,7 @@ Linear regression is a method to model the relationship between a dependent vari
     - Interact with the visualizations to explore the sales data.
 
 2. **Python Notebook**:
-    - Open the `sales_data_analysis.ipynb` file in Jupyter Notebook or JupyterLab.
+    - Open the `sales_data-analysis.ipynb` file in Jupyter Notebook or JupyterLab.
     - Run the cells to see the data analysis, model training, and results.
 
 ## Contributing
